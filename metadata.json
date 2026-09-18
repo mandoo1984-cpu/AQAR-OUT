@@ -1,0 +1,6 @@
+{
+  "name": "عقاراتي | منصة العقارات وإدارة العملاء الخاصة",
+  "description": "منصة عقارية متكاملة لعرض تفاصيل العقارات والمناطق، مع نظام سري وخاص لإدارة بيانات العملاء والطلبات للوسيط فقط.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
